@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan HD
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-name="RT Documentary English" group-title="Documentaries",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" group-title="News",BBC World News
+https://live-hls-web-aje.getaj.net/BBCW/02.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World Japan (PBS Mirror)" group-title="News",NHK World Japan HD
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA (Channel NewsAsia)" group-title="News",CNA International HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World News" group-title="News",TRT World English
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-id="GSN.us" tvg-name="Jeopardy! (GSN Marathon)" group-title="Entertainment",Jeopardy! on GSN
+https://live.gsncdn.akamaized.net/hls/live/201375/gsn_live/master.m3u8
