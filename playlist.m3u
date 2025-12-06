@@ -21,3 +21,6 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-id="GSN.us" tvg-name="GSN (Jeopardy! Marathons)" group-title="Entertainment",GSN - Jeopardy!
 https://d1jfs6iiq0z2gh.cloudfront.net/hls/live/201375/gsn_live/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Entertainment",PBS Antiques Roadshow (Xumo)
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
