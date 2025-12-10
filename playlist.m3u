@@ -13,14 +13,27 @@ https://live-hls-web-aje.getaj.net/BBCW/02.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World Japan (PBS Mirror)" group-title="News",NHK World Japan HD
 https://nhk.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA (Channel NewsAsia)" group-title="News",CNA International HD
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA International" group-title="News",CNA (Channel NewsAsia) HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World News" group-title="News",TRT World English
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World News" group-title="News",TRT World English HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="GSN.us" tvg-name="GSN (Jeopardy! Marathons)" group-title="Entertainment",GSN - Jeopardy!
 https://d1jfs6iiq0z2gh.cloudfront.net/hls/live/201375/gsn_live/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Entertainment",PBS Antiques Roadshow (Xumo)
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Africanews.eu" tvg-name="Africanews (Euronews Africa)" group-title="News",Africanews HD
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.eu" tvg-name="Euronews English" group-title="News",Euronews English HD
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" group-title="News",Times Now HD
+https://live.timesnownews.com/live/timesnow.m3u8
+
+#EXTINF:-1 tvg-name="WION News (Browser)" group-title="News",WION Live
+https://www.wionews.com/live-tv
+
