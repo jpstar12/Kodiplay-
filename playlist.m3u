@@ -16,8 +16,8 @@ https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA International" group-title="News",CNA (Channel NewsAsia) HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World News" group-title="News",TRT World English HD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="RT News" group-title="News",RT News English HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GSN.us" tvg-name="GSN (Jeopardy! Marathons)" group-title="Entertainment",GSN - Jeopardy!
 https://d1jfs6iiq0z2gh.cloudfront.net/hls/live/201375/gsn_live/index.m3u8
