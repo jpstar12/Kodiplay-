@@ -26,7 +26,7 @@ https://d1jfs6iiq0z2gh.cloudfront.net/hls/live/201375/gsn_live/index.m3u8
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Africanews.eu" tvg-name="Africanews (Euronews Africa)" group-title="News",Africanews HD
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/5a098a95-cc1e-4e08-8785-65fe2ac4dda3/5.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.eu" tvg-name="Euronews English" group-title="News",Euronews English HD
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
@@ -44,5 +44,6 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-  <tr><td>News</td><td align="right">861</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/news.m3u</code></td></tr>
