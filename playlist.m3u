@@ -47,20 +47,7 @@ https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Missouri Local News", KY3 Springfield - NBC
-https://www.ky3.com/video/livestream/
-
-#EXTINF:-1 group-title="Missouri Local News", KOLR OzarksFirst - CBS
-https://www.ozarksfirst.com/live-stream/
-
-#EXTINF:-1 group-title="Missouri Local News", KSPR Springfield - ABC
-https://www.kspr.com/
-
-#EXTINF:-1 group-title="Missouri Local News", KRBK Fox Springfield
-https://www.ozarksfirst.com/
-
-#EXTINF:-1 group-title="Missouri Local News", Ozarks Public TV - PBS
-https://www.optv.org/
+httpshttps://iptv-org.github.io/iptv/subdivisions/us-mo.m3u
 
 
  
